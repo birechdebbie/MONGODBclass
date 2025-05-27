@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "68358ee41c6ece3db3568360"
+  },
+  "name": "spongebob",
+  "age": 38,
+  "gpa": 3,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "68358fff1c6ece3db3568361"
+  },
+  "name": "patrick",
+  "age": 27,
+  "gpa": 1.5,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "68358fff1c6ece3db3568362"
+  },
+  "name": "gary",
+  "age": 28,
+  "gpa": 3.5,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "68358fff1c6ece3db3568363"
+  },
+  "name": "ridol",
+  "age": 23,
+  "gpa": 3.2,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "6835911c9ec8272792cf88d9"
+  },
+  "name": "tabby",
+  "age": 22,
+  "gpa": 2.5,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "683592049ec8272792cf88db"
+  },
+  "name": "laura",
+  "age": 17,
+  "gpa": 2.8,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "683592049ec8272792cf88dc"
+  },
+  "name": "lani",
+  "age": 14,
+  "gpa": 2.9,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "683592049ec8272792cf88dd"
+  },
+  "name": "chloe",
+  "age": 19,
+  "gpa": 3.1,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "6835a840aa5ee85007af1eab"
+  },
+  "name": "larry",
+  "age": 23,
+  "fulltime": false,
+  "gpa": 3.2
+},
+{
+  "_id": {
+    "$oid": "6835b0a9fa5612095eb1985a"
+  },
+  "name": "leo",
+  "age": 32,
+  "gpa": 2.8,
+  "fulltime": false,
+  "graduationDate": null,
+  "courses": [
+    "biology",
+    "chemistry",
+    "calculus"
+  ],
+  "adress": {
+    "street": "123 fake st.",
+    "city": "Bikini Bottom",
+    "zip": 1234
+  }
+}]
